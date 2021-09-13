@@ -1,0 +1,12 @@
+<input class="search_input" placeholder='Tap to search' bindinput="navigateToSearch" bindfocus="navigateToSearch"></input>
+<block wx:for="{{stores}}" wx:key="_id">
+  <navigator url="../info/info?id={{item._id}}">
+    <view class="card">
+        
+        <image src="{{item.images}}" data-url="{{item.images}}" mode="aspectFit" class="center"/>
+        
+        
+        <view class="card_title">{{item.address}}</view>
+    </view>
+  </navigator>
+</block>

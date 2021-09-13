@@ -1,0 +1,43 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+	{
+      "login": "JuanZhou23",
+      "name": "JuanZhou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76529310?v=4",
+      "profile": "https://github.com/JuanZhou23",
+      "contributions": [
+        "design"
+	"code"
+      ]
+    },
+    {
+      "login": "Volcano-Yang",
+      "name": "杨灿就是杨火山",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43328103?v=4",
+      "profile": "http://volcanoblog.cn",
+      "contributions": [
+        "template"
+      ]
+    },
+    {
+      "login": "bestony",
+      "name": "白宦成",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13283837?v=4",
+      "profile": "https://www.ixiqin.com/",
+      "contributions": [
+        "template"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "attractionMap",
+  "projectOwner": "JuanZhou23",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
