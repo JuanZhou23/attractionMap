@@ -6,6 +6,12 @@ Author:
   </tr>
 </table>
 
+Juan Zhou: 
+  For a more in depth description of this project
+  please go to 
+  https://docs.google.com/presentation/d/1bVgUrAx5KvIByq5Bpjf1U0m3xWpNghCMzOADGilF33U/edit?usp=sharing
+  
+  Thanks
 
 
 
