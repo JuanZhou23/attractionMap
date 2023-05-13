@@ -8,8 +8,7 @@ Author:
 
 Juan Zhou: 
   For a more in depth description of this project
-  please go to 
-  https://docs.google.com/presentation/d/1bVgUrAx5KvIByq5Bpjf1U0m3xWpNghCMzOADGilF33U/edit?usp=sharing
+  please go to this [presentation](https://github.com/JuanZhou23/attractionMap/blob/d5fbf3ce0dc7764a56c6c72ea120553fb22643f5/Attractions%20Map.pptx)
   
   Thanks
 
